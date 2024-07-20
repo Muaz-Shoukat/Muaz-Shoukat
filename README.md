@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://webbymuaz.netlify.app/](https://webbymuaz.netlify.app/)
 
-- 💬 Ask me about **react, next.js, node.js, mongodb, unity,**
+- 💬 Ask me about **react, next.js, flask, django, mysql, postgressql, mongodb, unity,**
 
 - 📫 How to reach me **muazdev01@gmail.com**
 
