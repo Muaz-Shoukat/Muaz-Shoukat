@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muaz Shoukat</h1>
 <h3 align="center">Passionate about creating user-friendly and accessible websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muaz-shoukat&label=Profile%20views&color=0e75b6&style=flat" alt="muaz-shoukat" /> </p>
 
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif"/>
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://webbymuaz.netlify.app/](https://webbymuaz.netlify.app/)
