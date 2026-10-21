@@ -59,7 +59,7 @@ muaz = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/muaz-shoukat-08197a265" target="_blank">
+  <a href="https://linkedin.com/in/muaz-shoukat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
